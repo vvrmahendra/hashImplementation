@@ -1,5 +1,5 @@
 # hashImplementation
 
-This is the implemantaion of HashMap using generic data structures like Linked List and Array.\
+This is the implemantaion of HashMap using generic data structures like Linked List and Array.
 
-Here is the inital version of implementaion
+Here is the initial version of implementaion
